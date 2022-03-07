@@ -22,9 +22,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.validation.Valid;
 
-public class MembershipController {
 
-    @SuppressWarnings("unused")
     @RestController
     public class UserController {
 
@@ -56,5 +54,3 @@ public class MembershipController {
         }
     }
 
-
-}
