@@ -1,6 +1,6 @@
 package fr.esgi.al.kernel;
 
-import fr.esgi.al.myApplication.domain.UserId;
+import fr.esgi.al.addMemberShip.domain.UserId;
 
 public final class NoSuchEntityException extends RuntimeException {
 
